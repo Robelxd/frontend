@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📝 Simple Task Manager – React + Tailwind
 
 A simple frontend task manager app built for internship evaluation. Users can:
@@ -24,3 +25,7 @@ A simple frontend task manager app built for internship evaluation. Users can:
 ```bash
 git clone https://github.com/Robelxd/frontend.git
 cd frontend
+=======
+# frontend
+Simple Task Manager
+>>>>>>> 19736dc99330f44646bc323a132c8564830465e2
